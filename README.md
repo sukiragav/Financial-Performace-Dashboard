@@ -30,6 +30,14 @@ To create a visually appealing dashboard that provides an overview of the compan
 
 -  I have also included a Filter action at the left to allow Dynamic Exploration.
 
+  ## Getting Started
+  ```
+- Clone this repository to your local machine by using the following command :
+   https://github.com/sukiragav/Financial-Performace-Dashboard
+  ```
+
+
+
 
 
 <!--
