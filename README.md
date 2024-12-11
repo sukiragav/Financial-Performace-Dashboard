@@ -35,7 +35,9 @@ To create a visually appealing dashboard that provides an overview of the compan
 - Clone this repository to your local machine by using the following command :
    https://github.com/sukiragav/Financial-Performace-Dashboard
   ```
+## link to the dataset
 
+https://github.com/sukiragav/Financial-Performace-Dashboard/blob/main/Finance%20Tableu.pdf
 
 
 
