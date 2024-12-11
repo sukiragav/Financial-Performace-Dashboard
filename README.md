@@ -37,7 +37,7 @@ To create a visually appealing dashboard that provides an overview of the compan
   ```
 ## Link to the dataset
 
-https://github.com/sukiragav/Financial-Performace-Dashboard/blob/main/Finance%20Tableu.pdf
+![Finance Report](https://github.com/user-attachments/assets/30a39d4d-b958-45f4-85e6-5b1b8a617f7a)
 
 
 
