@@ -37,6 +37,8 @@ To create a visually appealing dashboard that provides an overview of the compan
   ```
 ## Link to the dataset
 
+https://public.tableau.com/app/profile/suki.ragav/viz/FinanceTableu/FinanceReport?publish=yes
+
 ![Finance Report](https://github.com/user-attachments/assets/30a39d4d-b958-45f4-85e6-5b1b8a617f7a)
 
 
