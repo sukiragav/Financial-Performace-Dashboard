@@ -10,21 +10,21 @@ The goal of this Tableau Dashboard is to analyze the financial performance of a 
 
 To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.
 
-## Sections in the Report
-
-**Report has multiple section's from where you can manage the data, like :**
-
-- Report data can be sliced by Segments, Country and Year to show particular data.
-
-- Report has cards showing Total Units Sold, Total Gross Sale and Total Profit.
-
-- Report are showed in Different Charts Bar chart,Scatter Plot,Line Graph and HeatMap.
-
--  It has a Bar Chart with Country on X-Axis and Sales on Y-Axis.
-
--  It has a Scatter Plot with Gross sales on X-Axis and Discouts on Y-Axis.
-
--  It has a Line Graph with Sales on X-Axis and Profit on Y-Axis.
+  ## Sections in the Report
+  
+  **Report has multiple section's from where you can manage the data, like :**
+  
+  - Report data can be sliced by Segments, Country and Year to show particular data.
+  
+  - Report has cards showing Total Units Sold, Total Gross Sale and Total Profit.
+  
+  - Report are showed in Different Charts Bar chart,Scatter Plot,Line Graph and HeatMap.
+  
+  -  It has a Bar Chart with Country on X-Axis and Sales on Y-Axis.
+  
+  -  It has a Scatter Plot with Gross sales on X-Axis and Discouts on Y-Axis.
+  
+  -  It has a Line Graph with Sales on X-Axis and Profit on Y-Axis.
 
 -  It has a Heat Map with Sales by Product on X-Axis and Discount on Y-Axis.
 
